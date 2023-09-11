@@ -6,14 +6,14 @@ If you want to see the calculator as on the layout - select the extension, for e
 
 ## HOT KEYS
 
-**'*' - Multiplication**
-**'/' - Division**
-**'+' - Addition**
-**'-' - Subtraction**
-**'ESC' - Clear All**
-**'=' - Equal**
-**'.' - Dot**
-**'0-9' - Numbers**
+**'*' - Multiplication** 
+**'/' - Division** 
+**'+' - Addition** 
+**'-' - Subtraction** 
+**'ESC' - Clear All** 
+**'=' - Equal** 
+**'.' - Dot** 
+**'0-9' - Numbers** 
 
 ### `npm start`
 
