@@ -1,0 +1,66 @@
+.App {
+  margin: 0 auto;
+  width: 100%;
+  height: 100vh;
+  background-color: #1b1b1b;
+  color: #e2e2e2;
+}
+
+.output {
+  font-weight: 300;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: space-around;
+  background-color: #2d3339;
+  padding: .75rem;
+  word-wrap: break-word;
+  word-break: break-all;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.output .display {
+  color: #c6c6c6;
+  font-size: 3.2rem;
+  font-weight: 500;
+  transform: translateX(-10px);
+}
+
+.output .current {
+  font-size: 4rem;
+  font-weight: 500;
+  transform: translateX(-10px);
+}
+
+.buttons {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-rows: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: #1b1b1b;
+}
+
+.cursor {
+  position: relative;
+  transform: translateY(10%);
+  display: inline-block;
+  width: 2px;
+  height: 3.5rem;
+  background-color: #a2c9fa;
+  animation: blink 1s infinite;
+}
+
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}

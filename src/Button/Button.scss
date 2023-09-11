@@ -1,0 +1,43 @@
+.button {
+  background-color: #212326;
+  height: 75px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.75);
+  }
+}
+
+.ac {
+  background-color: #4d415f;
+  grid-column: span 3;
+
+  &:hover {
+    background-color: rgba(51, 43, 63, 0.75);
+  }
+}
+
+.zero {
+  grid-column: span 2;
+}
+
+.operand {
+  background-color: rgb(61, 72, 86);
+
+  &:hover {
+    background-color: rgba(41, 48, 57, 0.75);
+  }
+}
+
+.equals {
+  background-color: rgb(29, 73, 114);
+
+  &:hover {
+    background-color: rgba(20, 51, 79, 0.75);
+  }
+}
