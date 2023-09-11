@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Test Task for Quantumobile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[DEMO LINK](https://maryanmats.github.io/test-task-quantumobile/)
 
-## Available Scripts
 
-In the project directory, you can run:
+
+## HOT KEYS
+
+**'*' - multiplication**
 
 ### `npm start`
 
