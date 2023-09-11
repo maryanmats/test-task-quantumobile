@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-task-quantumobile/static/css/main.7b5fd7bc.css",
+    "main.js": "/test-task-quantumobile/static/js/main.e902daac.js",
+    "static/js/787.a84393f1.chunk.js": "/test-task-quantumobile/static/js/787.a84393f1.chunk.js",
+    "index.html": "/test-task-quantumobile/index.html",
+    "main.7b5fd7bc.css.map": "/test-task-quantumobile/static/css/main.7b5fd7bc.css.map",
+    "main.e902daac.js.map": "/test-task-quantumobile/static/js/main.e902daac.js.map",
+    "787.a84393f1.chunk.js.map": "/test-task-quantumobile/static/js/787.a84393f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5fd7bc.css",
+    "static/js/main.e902daac.js"
+  ]
+}
