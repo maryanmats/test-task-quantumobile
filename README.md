@@ -2,11 +2,18 @@
 
 [DEMO LINK](https://maryanmats.github.io/test-task-quantumobile/)
 
-
+If you want to see the calculator as on the layout - select the extension, for example, iPhone 12
 
 ## HOT KEYS
 
-**'*' - multiplication**
+**'*' - Multiplication**
+**'/' - Division**
+**'+' - Addition**
+**'-' - Subtraction**
+**'ESC' - Clear All**
+**'=' - Equal**
+**'.' - Dot**
+**'0-9' - Numbers**
 
 ### `npm start`
 
